@@ -220,13 +220,6 @@ To reproduce the analysis:
 5. Update the dataset folder path to match your environment.
 6. Run the notebook cells in order.
 
-**Project resources:**
-
-- [Sampled rideshare datasets](https://drive.google.com/drive/folders/1B5RgYFus_WsXbsMI-O2wQXM4dcIUIt3_?usp=drive_link)
-- [Random sampling notebook](https://colab.research.google.com/drive/1wv3SVu2i7ntKiKCfwRmoRl3HJwgceg7m?usp=drive_link)
-
-Weather data is loaded from NOAA as documented in the notebook.
-
 ## 11. Data Attribution
 
 This project uses publicly available NYC TLC trip records, the TLC Taxi Zone Lookup Table, and NOAA weather observations.
